@@ -3,8 +3,8 @@
 Processing (version 4.2) project.
 
 Keys to interact with the simulation:
--   w, s:   modifies first's robot coupling
--   e, d:   modifies second's robot coupling
--   r, f:   modifies third's robot coupling
+-   w, s:   moves first joint
+-   e, d:   moves second joint
+-   r, f:   moves third joint
 -   ENTER:  rest position
 -   TAB:  initial camera position
